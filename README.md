@@ -1,1 +1,1 @@
-# umi2-dva-user-dashboard
+# umi-dva-user-dashboard
